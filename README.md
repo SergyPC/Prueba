@@ -1,3 +1,24 @@
+# MilAnuncios
+
+## Install Scripts
+
+Install React:
+<br />
+npx create-react-app app-anuncios
+
+Install react-router-dom:
+<br />
+npm install react-router-dom
+
+Install axios:
+<br />
+npm install --save axios
+
+
+
+
+#
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
